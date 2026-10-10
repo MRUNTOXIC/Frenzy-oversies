@@ -1,0 +1,6 @@
+{
+  "name": "Frenzy Overseas",
+  "description": "Luxury visa consultancy, study abroad advisory, and immigration pathway platform with interactive eligibility checker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
